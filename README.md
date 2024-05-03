@@ -1,4 +1,4 @@
-# dnetexporter
+# Datanetexporter
 ### Network Data Usage Exporter:
 
 The dnetexporter is a Go application designed to capture network packets, analyze traffic between specified IP pairs, and export traffic metrics to Prometheus. This tool is invaluable for real-time monitoring of network activities, focusing on targeted IP pairs configurable through a JSON file. It leverages pcap for packet capturing and provides detailed insights into traffic patterns, aiding in network usage analysis.
